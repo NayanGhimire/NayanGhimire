@@ -1,23 +1,29 @@
-# 💫 About Me:
-🤝 I’m looking for help with:<br>Advanced Android malware analysis, reverse engineering techniques, and improving my FastF1 data analysis project.<br><br>🌱 I’m currently learning:<br>Cybersecurity (red team, blue team), SOC fundamentals, and deeper Python development for security tools.<br><br>💬 Ask me about:<br>Static and dynamic analysis, cybersecurity basics, analyzing suspicious apps, FastF1, or anything Formula 1 related.
+<h1 align="center">Hi 👋, I'm Nayan Ghimire</h1>
+<h3 align="center">Python & C/C++ developer | Security enthusiast | Nepal 🇳🇵</h3>
 
+- 🔭 I’m currently working on [CYBERSIMULATION](https://cybersimulatoin.onrender.com/)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nayan602_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Skyblazzer87) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nayan_602) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/spectatorspider) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nayan_0920) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nayanrajghimire@gmail.com) 
+- 🌱 I’m currently learning **SOC,Secuirty Enginner**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NayanGhimire&theme=darcula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NayanGhimire&theme=darcula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NayanGhimire&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- 👯 I’m looking to collaborate on **anything**
 
+- 💬 Ask me about **any thing I will try my best to answer**
 
+- 📫 How to reach me **nayanrajghimire@gmail.com**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+- ⚡ Fun fact **I enjoy breaking things to understand how they work**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/nayan_0920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nayan_0920" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nayan ghimire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayan ghimire" height="30" width="40" /></a>
+<a href="https://instagram.com/nayan602_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nayan602_" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayanghimire&show_icons=true&locale=en" alt="nayanghimire" /></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayanghimire&" alt="nayanghimire" /></p>
+
