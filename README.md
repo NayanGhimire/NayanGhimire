@@ -38,15 +38,12 @@
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
+# 📊 GitHub Stats
 
-<p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NayanGhimire&layout=compact)
-</p>
+![](https://github-readme-stats.vercel.app/api?username=NayanGhimire&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NayanGhimire&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NayanGhimire&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NayanGhimire&show_icons=true)
-</p>
-
-<p align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NayanGhimire)
-</p>
+![](https://github-readme-stats.vercel.app/api?username=NayanGhimire&theme=darcula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NayanGhimire&theme=darcula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NayanGhimire&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
